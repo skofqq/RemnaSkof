@@ -4,7 +4,6 @@ claudeusercontent.com
 intercom.io
 intercomassets.com
 intercomcdn.com
-payload:
 a-api.anthropic.com
 a-cdn.anthropic.com
 anthropic.com
