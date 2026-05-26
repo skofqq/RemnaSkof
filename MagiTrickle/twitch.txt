@@ -3,7 +3,6 @@ twitchsvc-staging.tech
 ext-twitch.tv
 twitchsvc.net
 twitchcdn.net
-live-video.net
 jtvnw.net
 ttvnw.net
 twitch.tv
